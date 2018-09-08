@@ -1,7 +1,7 @@
 name: EconomySell
 version: "2.0.7"
 api:
-- 4.0.0
+- 3.0.0, 4.0.0
 
 main: onebone\economysell\EconomySell
 author: onebone
